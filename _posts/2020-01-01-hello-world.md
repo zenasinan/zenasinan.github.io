@@ -1,6 +1,6 @@
 ---
 title: Hello, world!
-date: 2020-01-01
+date: 2020-01-01 23:13:00
 ---
 ## Hello, world!
 
