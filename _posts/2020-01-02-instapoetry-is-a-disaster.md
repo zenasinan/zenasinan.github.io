@@ -28,28 +28,28 @@ Also, although I shouldn’t be commenting much on the structure of the poems (b
 
 Some of the poems also make absolutely no sense, such as:
 
-```
+<pre class="highlighter-rouge">
 how do you turn
 a forest fire like me
 so soft i turn into
 running water
-```
+</pre>
 
 The whole concept of fire turning into water makes no sense because they are completely different elements. Also, the metaphor of a person being a ‘forest fire’ is so cliché as well, just like many of the metaphors used in this book. 
 
 For example:
 
-```
+<pre class="highlighter-rouge">
 you were temptingly beautiful
 but stung when i got close
-```
+</pre>
 
 The first thing I thought of when I read this was the quote from Shakespeare’s Macbeth: “look like the innocent flower but be the serpent under't”. I just feel like this metaphor of appearance versus reality has been done so many times, and the metaphor used in this poem isn’t unique, original, or in any way a new take on this idea. 
 What frustrates me about this book is that the topics it dealt with allowed for such powerful poems but they were just so underwhelming it’s ridiculous. 
 
 And as for this poem:
 
-```
+<pre class="highlighter-rouge">
 removing all the hair
 off your body is okay
 if that’s what you want to do
@@ -57,8 +57,8 @@ just as much as keeping all the hair
 on your body is okay
 if that’s what you want to do
 
-_-you belong only to yourself_
-```
+<i>-you belong only to yourself</i>
+</pre>
 
 I understand the message she’s trying to put across, but this poem is so ridiculous I don’t understand how it even qualifies as a poem in the first place.This sounds like a text message, not a poem!
 
@@ -66,7 +66,7 @@ I think the thing that upsets me the most is that although this book may introdu
 
 And as much as I don’t like tearing apart somebody’s work that they probably spent a lot of time on, when any form of art is published to the public, it is expected to receive at least a little bit of criticism. But what really pushed me over the edge with this book was this poem near the end:
 
-```
+<pre class="highlighter-rouge">
 your art
 is not about how many people
 like your art
@@ -82,8 +82,8 @@ must never
 trade honesty
 for relatability
 
-_-advice to young writers_
-```
+<i>-advice to young writers</i>
+</pre>
 
 This may be inspirational and encouraging to the young writers that this is dedicated to, but when I first read it, the way it came across to me was that she was almost putting up a shield against any criticism her book might receive by calling it ‘art’ and saying it doesn’t matter how many people like it because, well, it’s art. 
 
