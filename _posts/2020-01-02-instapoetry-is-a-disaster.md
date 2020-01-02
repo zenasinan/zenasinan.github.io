@@ -2,6 +2,9 @@
 published: true
 title: Instapoetry is a Disaster
 ---
+![Milk and Honey Book]({{site.baseurl}}/_posts/Books-Like-Milk-and-Honey-696x363.jpg)
+<sub>source: https://www.vowelor.com/books-like-milk-and-honey/</sub>
+
 In this blog post, I will be reviewing the infamous instapoetry book “milk and honey” by Rupi Kaur, as well as explaining why instapoetry/modern poetry is a complete and utter mess. 
 
 “milk and honey” is a collection of poetry and prose that discusses topics such as love, loss, abuse, and femininity. The book is divided into four sections: The Hurting, The Loving, The Breaking, and The Healing. The book also contains illustrations that accompany most of the poems. 
