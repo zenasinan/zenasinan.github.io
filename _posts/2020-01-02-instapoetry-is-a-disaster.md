@@ -16,7 +16,7 @@ However, what disappointed me about this book is that it seemed to me as more of
 
 For example:
 
-<pre>
+<pre class="highlighter-rouge">
 <i>stay</i>
 i whispered
 as you
