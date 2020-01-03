@@ -1,9 +1,13 @@
 ---
 title: About me
+published: true
 ---
+Hi! My name is Zena and I'm 15. Thank you for checking out my website!
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+I've always loved reading, especially YA, fantasy, and science fiction books. I also like drawing and painting, and I occasionally play some video games.
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
+On this website, I am going to be writing book reviews, recommendations, and anything else book-related! Hope you enjoy!
 
-Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
+Join the discussion about each book on Twitter.
+
+Happy reading!
