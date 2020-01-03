@@ -48,8 +48,8 @@ you were temptingly beautiful
 but stung when i got close
 </pre>
 
-The first thing I thought of when I read this was the quote from Shakespeare’s Macbeth: “look like the innocent flower but be the serpent under't”. I just feel like this metaphor of appearance versus reality has been done so many times, and the metaphor used in this poem isn’t unique, original, or in any way a new take on this idea. 
-What frustrates me about this book is that the topics it dealt with allowed for such powerful poems but they were just so underwhelming it’s ridiculous. 
+The first thing I thought of when I read this was the quote from Shakespeare’s Macbeth: “look like the innocent flower but be the serpent under't”. I just feel like this metaphor of appearance versus reality has been done so many times, and the metaphor used in this poem isn’t unique, original, or in any way a new take on this idea.
+What frustrates me about this book is that the topics it dealt with allowed for such powerful poems but they were just so underwhelming it’s ridiculous. The metaphors, imagery, and any other literary techniques used could've conveyed the pain that abuse and loss make a person feel. Instead, the book is filled with five-word 'poems' that contain cliché ideas and comparisons.
 
 And as for this poem:
 
@@ -64,11 +64,11 @@ if that’s what you want to do
 <i>-you belong only to yourself</i>
 </pre>
 
-I understand the message she’s trying to put across, but this poem is so ridiculous I don’t understand how it even qualifies as a poem in the first place.This sounds like a text message, not a poem!
+I understand the message she’s trying to put across, but this poem is so ridiculous I don’t understand how it even qualifies as a poem in the first place. In the words of <i>Claire Reads Books</i>, "That's not a poem, that's like what I texted my friend when she asked me if she should grow her leg hair out for the winter."
 
-I think the thing that upsets me the most is that although this book may introduce people to poetry and spark an interest in poetry again, this is the type of poetry young people are reading and praising when I’m sure there are so many better poets out there that write actually meaningful poems. I don’t understand why this book received so much popularity. 
+I think what upsets me the most is that although this book may introduce people to poetry and spark an interest in poetry again, this is the type of poetry young people are reading and praising when I’m sure there are so many better poets out there that write actually meaningful poems. That's why I don’t understand why this book received so much popularity. 
 
-And as much as I don’t like tearing apart somebody’s work that they probably spent a lot of time on, when any form of art is published to the public, it is expected to receive at least a little bit of criticism. But what really pushed me over the edge with this book was this poem near the end:
+And as much as I don’t like tearing apart somebody’s work that they probably spent a lot of time on, when any form of art is published to the public, it is expected to receive at least a little bit of criticism. That's why this poem near the end of the book was what really pushed me over the edge:
 
 <pre class="highlighter-rouge">
 your art
@@ -93,5 +93,6 @@ This may be inspirational and encouraging to the young writers that this is dedi
 
 Overall, I personally think that this book has dealt with many heavy topics that voice the concerns of people who experienced them, and it may seem very empowering and feminist. However, what made me rate it only two stars is how shallow and meaningless the poems are, and how this book had so much potential to deal with these topics but approached them in such a basic and superficial level. 
 
-Feel free to join the discussion on Twitter by clicking on the link below!
+
+Thank you so much for reaching the end of this review! Feel free to join the discussion on Twitter by clicking on the link below!
 (Link)
