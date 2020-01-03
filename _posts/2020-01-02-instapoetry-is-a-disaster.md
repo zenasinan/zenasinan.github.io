@@ -6,7 +6,7 @@ title: Instapoetry is a Disaster
 
 <sub>source: https://www.vowelor.com/books-like-milk-and-honey/</sub>
 <br><br>
-<b>My rating</b>: <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+<b>My rating</b>: <i class="fas fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
 
 In this blog post, I will be reviewing the infamous instapoetry book “milk and honey” by Rupi Kaur, as well as explaining why instapoetry/modern poetry is a complete and utter mess. 
 
@@ -95,7 +95,7 @@ for relatability
 
 This may be inspirational and encouraging to the young writers that this is dedicated to, but when I first read it, the way it came across to me was that she was almost putting up a shield against any criticism her book might receive by calling it ‘art’ and saying it doesn’t matter how many people like it because, well, it’s art. 
 
-Overall, I personally think that this book has dealt with many heavy topics that voice the concerns of people who experienced them, and it may seem very empowering and feminist. However, what made me rate it only two stars is how shallow and meaningless the poems are, and how this book had so much potential to deal with these topics but approached them in such a basic and superficial level. 
+Overall, I personally think that this book has dealt with many heavy topics that voice the concerns of people who experienced them, and it may seem very empowering and feminist. However, what made me rate it only one star is how shallow and meaningless the poems are, and how this book had so much potential to deal with these topics but approached them in such a basic and superficial level. 
 
 
 Thank you so much for reaching the end of this review! Feel free to join the discussion on Twitter by clicking on the link below!
