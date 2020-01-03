@@ -6,7 +6,7 @@ title: Instapoetry is a Disaster
 
 <sub>source: https://www.vowelor.com/books-like-milk-and-honey/</sub>
 <br><br>
-<b>My rating</b>: ★ ★ ☆ ☆ ☆
+<b>My rating</b>: <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
 
 In this blog post, I will be reviewing the infamous instapoetry book “milk and honey” by Rupi Kaur, as well as explaining why instapoetry/modern poetry is a complete and utter mess. 
 
