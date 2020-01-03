@@ -1,7 +1,7 @@
 # ----------- CONFIGURABLE START -----------
 title:            "book corner"
 description:      "a corner of the internet for all the book lovers out there"
-url:              https://zenasinan.github.io # Site url, without a slash at the end.
+url:              https://bookcorner.blog # Site url, without a slash at the end.
 signoff:          "Zena" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
