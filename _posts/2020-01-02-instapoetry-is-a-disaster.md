@@ -29,7 +29,7 @@ shut the door behind you
 </pre>
 
 Do you see what I mean?
-Also, although I shouldn’t be commenting much on the structure of the poems (being a ‘poetry amateur’ myself), I find it a bit irritating how the words are isolated on separate lines, because that feature doesn’t add any extra meaning to the poem. Some of the poems would’ve made the same exact impact if they were written as a single sentence. I think the author just randomly isolated some of the words to make this classify as a ‘poem’. 
+Also, although I shouldn’t be commenting much on the structure of the poems (being a ‘poetry amateur’ myself), I find it a bit irritating how the words are isolated on separate lines. That feature is usually used to achieve an effect, but in this case, it doesn't add any extra meaning to the poem. Some of the poems would’ve made the same exact impact if they were written as a single sentence. I think the author just randomly isolated some of the words to make this classify as a ‘poem’. 
 
 Some of the poems also make absolutely no sense, such as:
 
