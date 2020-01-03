@@ -29,6 +29,7 @@ shut the door behind you
 </pre>
 
 Do you see what I mean?
+
 Also, although I shouldn’t be commenting much on the structure of the poems (being a ‘poetry amateur’ myself), I find it a bit irritating how the words are isolated on separate lines. That feature is usually used to achieve an effect, but in this case, it doesn't add any extra meaning to the poem. Some of the poems would’ve made the same exact impact if they were written as a single sentence. I think the author just randomly isolated some of the words to make this classify as a ‘poem’. 
 
 Some of the poems also make absolutely no sense, such as:
@@ -50,6 +51,7 @@ but stung when i got close
 </pre>
 
 The first thing I thought of when I read this was the quote from Shakespeare’s Macbeth: “look like the innocent flower but be the serpent under't”. I just feel like this metaphor of appearance versus reality has been done so many times, and the metaphor used in this poem isn’t unique, original, or in any way a new take on this idea.
+
 What frustrates me about this book is that the topics it dealt with allowed for such powerful poems but they were just so underwhelming it’s ridiculous. The metaphors, imagery, and any other literary techniques used could've conveyed the pain that abuse and loss make a person feel. Instead, the book is filled with five-word 'poems' that contain cliché ideas and comparisons.
 
 And as for this poem:
