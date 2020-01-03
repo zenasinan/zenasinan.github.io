@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Zena Sinan"
-description:      "Novel and Poem Reviews!"
+title:            "book corner"
+description:      "a blog for book lovers"
 url:              https://zenasinan.github.io # Site url, without a slash at the end.
 signoff:          "Zena" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
