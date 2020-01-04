@@ -45,7 +45,7 @@ After reading this book, I watched <i>The English Teacher</i>’s review, and th
 “It’s just hair, I tell myself. Its function is to keep the head warm and protect it against ultraviolet radiation. There’s nothing inherently sexy about it.”
 </pre>
 
-His reaction: Jesus Christ, Spock! Calm down!”
+<i>The English Teacher</i>'s reaction: "Jesus Christ, Spock! Calm down!”
 
 But anyways, enough of that.
 Let’s move on to why this book is pretty great!
