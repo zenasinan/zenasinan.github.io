@@ -93,7 +93,7 @@ for relatability
 <i>-advice to young writers</i>
 </pre>
 
-This may be inspirational and encouraging to the young writers that this is dedicated to, but when I first read it, the way it came across to me was that she was almost putting up a shield against any criticism her book might receive by calling it ‘art’ and saying it doesn’t if people dislike it or criticize it because, well, it’s art. 
+This may be inspirational and encouraging to the young writers that this is dedicated to, but when I first read it, the way it came across to me was that she was almost putting up a shield against any criticism her book might receive by calling it ‘art’ and saying it doesn’t matter if people dislike it or criticize it because, well, it’s art. 
 
 Overall, I personally think that this book has dealt with many heavy topics that voice the concerns of people who experienced them, and it may seem very empowering and feminist. However, what made me rate it only one star is how shallow and meaningless the poems are, and how this book had so much potential to deal with these topics but approached them in such a basic and superficial level. 
 
