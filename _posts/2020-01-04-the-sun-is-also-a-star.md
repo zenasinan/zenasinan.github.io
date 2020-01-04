@@ -3,7 +3,7 @@ published: true
 title: The Sun is Also a Star
 publish: true
 ---
-![The Sun is Also a Star Cover]({{site.baseurl}}/_posts/sun.jpg)
+![The Sun is Also a Star Cover](https://cdn.dribbble.com/users/26629/screenshots/3746551/sun.jpg)
 
 <sub>source: https://dribbble.com/shots/3746551-The-Sun-is-Also-a-Star</sub>
 <br><br>
