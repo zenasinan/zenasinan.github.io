@@ -3,6 +3,10 @@ published: false
 ---
 ![The Sun is Also a Star Cover]({{site.baseurl}}/_posts/sun.jpg)
 
+<sub>source: https://dribbble.com/shots/3746551-The-Sun-is-Also-a-Star</sub>
+<br><br>
+<b>My rating</b>: <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i>
+
 <b>WARNING: SPOILERS AHEAD.</b>
 
 It’s about time I finally read The Sun is Also a Star! This book has been talked about in the booktube community for what feels like forever and I recently picked up a copy. I had high expectations because I loved ‘Everything, Everything’, but by the time I reached the last page, I felt very conflicted. In this review, I’ll be discussing ‘The Sun is Also a Star’ by Nicola Yoon and explaining my contrasting opinions on this book. 
