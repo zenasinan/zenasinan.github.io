@@ -98,5 +98,4 @@ This may be inspirational and encouraging to the young writers that this is dedi
 Overall, I personally think that this book has dealt with many heavy topics that voice the concerns of people who experienced them, and it may seem very empowering and feminist. However, what made me rate it only one star is how shallow and meaningless the poems are, and how this book had so much potential to deal with these topics but approached them in such a basic and superficial level. 
 
 
-Thank you so much for reaching the end of this review! Feel free to join the discussion on Twitter by clicking on the link below!
-(Link)
+Thank you so much for reaching the end of this review! Feel free to join the discussion on Twitter by clicking [here](https://twitter.com/zena_sinan/status/1213450672475168769)!
