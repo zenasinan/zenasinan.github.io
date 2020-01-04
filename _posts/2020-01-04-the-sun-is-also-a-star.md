@@ -52,7 +52,7 @@ Let’s move on to why this book is pretty great!
 
 Despite some of the cringy bits, I could not put this book down. I personally love when chapters are quite short, because I could tell myself “Oh just three more pages and I’ll stop reading” but then end up finishing five more chapters.
 
-Also, after Daniel and Natasha start to affect each others’ ideologies and grew more connected, I became so invested in their story. As I mentioned earlier, their contrasting personalities really compliment each other as the story develops, and their character development (especially Natasha’s) made me love them even more. 
+Also, after Daniel and Natasha started to affect each others’ ideologies and grew more connected, I became so invested in their story. As I mentioned earlier, their contrasting personalities really compliment each other as the story develops, and their character development (especially Natasha’s) made me love them even more. 
 
 The suspense that was building up throughout the book as Natasha keeps fighting her family’s deportation peaked nearly two hundred pages in, and I loved it. At the beginning of the book, I immediately thought she wouldn’t get deported because there has to be a happy ending, right? But the possibility of her getting deported not only surprised me and made the book less predictable, but also allowed me to cherish every moment between her and Daniel because they might never see each other again.
 
