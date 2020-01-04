@@ -17,25 +17,31 @@ Before we get to the good bits, let’s start with what bothered me about this b
 
 Another thing is that this book features a lot of insta-love. I mean, to be fair, when a story has to unfold over the course of a day, it is pretty expected. Now, Natasha didn’t really instantly fall in love with Daniel, but he did. Right after they talk, Daniel thinks to himself:
 
+<pre class="highlighter-rouge">
 “Who meets a cute girl and shakes her hand?
 Charlie would’ve said something charming to her. They’d be having a cozy coffee someplace dark and romantic. She’d already be dreaming of little half-Korean, half-African American babies.”
+</pre>
 
 He literally started thinking of “their babies” right after meeting her! That’s like insta-love to the next level! 
 
 Also, the two characters’ contrasting personalities do appear to compliment each other once they met, but at the beginning of the story, they seemed to be almost like caricatures of the stereotypes they represented. For example, in this excerpt:
 
+<pre class="highlighter-rouge">
 “This isn’t destiny. I chose this career. It didn’t choose me. I’m not fated to be a data scientist. There’s a career section in the library at school. I did research on growing fields in the sciences, and ta-da. No fate or destiny involved, just research.” 
 “So it’s not something you’re passionate about?” 
 She shrugs and starts walking again. 
 “It suits my personality,” she says. 
 “Don’t you want to do something you love?” 
 “Why?” she asks, like she genuinely doesn’t understand the appeal of loving something.
+</pre>
 
-It’s clear from the start of the book that Natasha is a pragmatic character. However, her qualities are exaggerated so much that it makes her seem more like a robot than an actual human. She is okay with believing that life has no meaning, and is totally okay with working at a job that she isn’t passionate about, as long as it’s practical. These may all be qualities of a typical pragmatic person, but she appears to “genuinely [not] understand the appeal of loving something” when on page 139, she literally says: “I love that song,” after singing “Fell on Black Days” in the karaoke room. My point is, she seems very apathetic at the beginning of the book. Despite loving certain things such as grunge music, she shows no feelings at all about anything else, and this makes her seem ‘less human’ in a way.
+It’s clear from the start of the book that Natasha is a pragmatic character. However, her qualities are exaggerated so much that it makes her seem more like a robot than an actual human. She is okay with believing that life has no meaning, and is totally okay with working at a job that she isn’t passionate about, as long as it’s practical. These may all be qualities of a typical pragmatic person, but she appears to “genuinely (not) understand the appeal of loving something” when on page 139, she literally says: “I love that song,” after singing “Fell on Black Days” in the karaoke room. My point is, she seems very apathetic at the beginning of the book. Despite loving certain things such as grunge music, she shows no feelings at all about anything else, and this makes her seem ‘less human’ in a way.
 
-After reading this book, I watched <I> The English Teacher</I>’s review, and there was one part where he was reading a sentence that Natasha had thought to herself after she and Daniel met (as she’s staring at his hair), and his reaction was so perfect I just had to include it:
+After reading this book, I watched <i>The English Teacher</i>’s review, and there was one part where he was reading a sentence that Natasha had thought to herself after she and Daniel met (as she’s staring at his hair), and his reaction was so perfect I just had to include it:
 
+<pre class="highlighter-rouge">
 “It’s just hair, I tell myself. Its function is to keep the head warm and protect it against ultraviolet radiation. There’s nothing inherently sexy about it.”
+</pre>
 
 His reaction: Jesus Christ, Spock! Calm down!”
 
