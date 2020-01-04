@@ -68,4 +68,4 @@ So yeah! Minor characters are awesome!
 
 Overall, I thought I had pretty neutral feelings about this book, but after writing this review, I think I might be leaning a little more towards liking it. I don’t think it’s the best book I’ve ever read, but I did like it a bit more than I disliked it. I enjoyed the unique formatting of the book, and how gripping the story was. I also loved the characters, especially Daniel. Of course, the book did feature insta-love which I’m not a fan of, and the book was based around a series of unbelievably lucky coincidences. Oh, and Natasha’s early characterization was a bit iffy. But at the end of the day, it still was quite an enjoyable story, and I rated it a solid three stars! 
 
-Thank you so much for reaching the end of this review! Feel free to join the discussion on Twitter by clicking on the link below! (Link)
+Thank you so much for reaching the end of this review! Feel free to join the discussion on Twitter by clicking [here](https://twitter.com/zena_sinan/status/1213450672475168769)!
