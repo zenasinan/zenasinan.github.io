@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Sun is Also a Star
 publish: true
 ---
