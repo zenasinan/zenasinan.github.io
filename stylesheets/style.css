@@ -14,7 +14,7 @@
 }
 .markdown-body pre {
   margin: 0;
-  /*overflow: auto;*/
+  overflow: auto;
   font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
   white-space: pre-wrap;
   white-space: -moz-pre-wrap;
