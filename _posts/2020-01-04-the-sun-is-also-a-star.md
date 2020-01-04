@@ -1,5 +1,7 @@
 ---
 published: false
+title: The Sun is Also a Star
+publish: true
 ---
 ![The Sun is Also a Star Cover]({{site.baseurl}}/_posts/sun.jpg)
 
