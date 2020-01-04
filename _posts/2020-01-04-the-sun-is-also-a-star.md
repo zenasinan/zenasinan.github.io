@@ -50,7 +50,7 @@ After reading this book, I watched <i>The English Teacher</i>’s review, and th
 But anyways, enough of that.
 Let’s move on to why this book is pretty great!
 
-Despite some of the cringy bits, I could not put this book down. I personally love when chapters are quite short, because I could tell myself “Oh just three more pages and I’ll put the book down” but then end up finishing five more chapters.
+Despite some of the cringy bits, I could not put this book down. I personally love when chapters are quite short, because I could tell myself “Oh just three more pages and I’ll stop reading” but then end up finishing five more chapters.
 
 Also, after Daniel and Natasha start to affect each others’ ideologies and grew more connected, I became so invested in their story. As I mentioned earlier, their contrasting personalities really compliment each other as the story develops, and their character development (especially Natasha’s) made me love them even more. 
 
