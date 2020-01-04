@@ -20,8 +20,8 @@ Before we get to the good bits, let’s start with what bothered me about this b
 Another thing is that this book features a lot of insta-love. I mean, to be fair, when a story has to unfold over the course of a day, it is pretty expected. Now, Natasha didn’t really instantly fall in love with Daniel, but he did. Right after they talk, Daniel thinks to himself:
 
 <pre class="highlighter-rouge">
-“Who meets a cute girl and shakes her hand?
-Charlie would’ve said something charming to her. They’d be having a cozy coffee someplace dark and romantic. She’d already be dreaming of little half-Korean, half-African American babies.”
+Who meets a cute girl and shakes her hand?
+Charlie would’ve said something charming to her. They’d be having a cozy coffee someplace dark and romantic. She’d already be dreaming of little half-Korean, half-African American babies.
 </pre>
 
 He literally started thinking of “their babies” right after meeting her! That’s like insta-love to the next level! 
