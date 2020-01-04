@@ -22,6 +22,7 @@
   white-space: -o-pre-wrap;
   word-wrap: break-word;
   overflow-wrap: break-word;
+  display: inline-block;
 }
 .markdown-body > .highlighter-rouge,
 .markdown-body > blockquote {
